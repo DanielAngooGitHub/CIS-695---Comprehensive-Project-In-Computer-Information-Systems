@@ -1,1 +1,1 @@
-# CIS-695---Comprehensive-Project-In-Computer-Information-Systems
+The objective of the project involves the development of a dedicated onboarding application or solution for CalBank, a commercial bank in Ghana, aimed at streamlining the account opening process. The application is designed to expedite the account creation process and provide enhanced convenience for the working population, who often face time constraints that prevent them from visiting traditional brick-and-mortar banking facilities.# CIS-695---Comprehensive-Project-In-Computer-Information-Systems
